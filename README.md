@@ -13,7 +13,7 @@
 
 * Os layout's são apenas JPEG, pois o teste não requer recorte de imagens. Queremos avaliar a fidelidade do layout JPEG com o código entregue. É possível pegar as medidas através do JPEG, porém não se preocupe com o valor exato do tamanho das fontes. Os layout's estão disponíveis em: [/_layout](/_layout);
 * Para as imagens, utilize a ferramenta de placeholder: https://placehold.it/;
-* Utilize a fonte **Open Sans Regular** e **Open Sans Bold**: (https://fonts.google.com/specimen/Open+Sans).
+* Utilize a fonte **Open Sans Regular** e **Open Sans Bold**: https://fonts.google.com/specimen/Open+Sans.
 
 
 ### Esperamos que você:
