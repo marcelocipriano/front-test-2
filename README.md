@@ -21,7 +21,7 @@
 * Desenvolva HTML semântico;
 * Componentize seu CSS utilzando o conceito DRY;
 * Utilize boas práticas de SEO;
-* Dê suporte a IE10+, Chrome, Safari e Firefox.
+* Dê suporte a IE10+, Chrome, Safari e Firefox;
 * Utilize o GIT para enviar o teste.
 
 
@@ -30,7 +30,7 @@
 * Utilizar qualquer linguagem de preprocessador css ou css puro;
 * Utilizar um task runner de sua preferência;
 * Utilizar componentes do bower;
-* Executar a lógica do carousel e das tabs na unha;
+* Executar a lógica do carousel e das tabs na unha.
 
 
 ### Breakpoints:
