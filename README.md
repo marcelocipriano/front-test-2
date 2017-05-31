@@ -19,7 +19,7 @@
 ### Esperamos que você:
 
 * Desenvolva HTML semântico;
-* Componentize seu CSS utilzando o conceito DRY;
+* Componentize seu CSS utilizando o conceito DRY;
 * Utilize boas práticas de SEO;
 * Dê suporte a IE10+, Chrome, Safari e Firefox;
 * Utilize o GIT para enviar o teste.
